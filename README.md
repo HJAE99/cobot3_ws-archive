@@ -8,6 +8,8 @@ Isaac Sim 5.1 병원 씬에서 로봇 팔(Doosan M0609)을 얹은 Nova Carter �
 - **관제**: 구역 예약으로 교차로·문 통과 조정, 긴급도 기반 우선순위, PostgreSQL + Redis 기록
 - **관제 웹**: 로봇 위치·예약 구역·작업 현황 실시간 대시보드, rosbag 재생
 
+notion : https://app.notion.com/p/3-3dd961cfeed98058879ef0d28ee22af6?source=copy_link
+
 ## 구성
 
 | 프로세스 | 위치 | 하는 일 |
